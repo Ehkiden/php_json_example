@@ -1,0 +1,22 @@
+{
+  "categories": {
+        "Nobel - Physics": "Nobel_physics.json", 
+        "Nobel - Peace": "Nobel_peace.json", 
+        "Nobel - Medicine": "Nobel_MD.json", 
+        "Nobel - Chemistry": "Nobel_chem.json", 
+		"Oscar - 2018 Nominations": "2018_Oscar.json"
+        },
+  "searchterms": {
+  		"F0": "year",
+  		"F1": "category",
+		"F2": "overallMotivation",
+		"F3": "firstname",
+		"F4": "surname",
+		"F5": "motivation",
+		"F6": "share",
+		"F7": "Bar",
+		"F8": "movie",
+		"F9": "For",
+		"What": "Ever"
+  		}
+}

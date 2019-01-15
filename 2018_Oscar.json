@@ -1,0 +1,30 @@
+{ "nominations":[
+	{"year": "2018",
+	 "category": "lead_actor",
+	 "nominees":[
+	 	{"firstname":"Timothée",
+		 "surname": "Chalamet",
+		 "movie": "Call Me by Your Name"
+		},
+	 	{"firstname":"Daniel",
+		 "surname":"Day-Lewis",
+		 "movie": "Phantom Thread"
+		},
+	 	{"firstname":"Daniel",
+		 "surname":"Kaluuya",
+		 "movie": "Get Out"
+		},
+	 	{"firstname":"Gary",
+		 "surname":"Oldman",
+		 "movie": "Darkest Hour"
+		},
+	 	{"firstname":"Denzel",
+		 "surname":"Washington",
+		 "movie": "Roman H. Israel, Esq."
+		}
+		]
+	}
+	]
+}
+
+
